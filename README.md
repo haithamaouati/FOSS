@@ -1,5 +1,19 @@
+![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/FOSS?logo=law)
+![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/FOSS?logo=star)
+![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/FOSS?logo=repo-forked)
+![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/FOSS?logo=eye)
+
 # FOSS
 FOSS — Free and open-source software.
+
+```
+  _____ ___  ____ ____   
+ |  ___/ _ \/ ___/ ___|  
+ | |_ | | | \___ \___ \  
+ |  _|| |_| |___) |__) | 
+ |_|   \___/|____/____/  
+                         
+```
 
 - [Openreads](https://github.com/mateusz-bak/openreads-android) A mobile books tracker written in Flutter that respects your privacy.
 - [Feeder](https://github.com/spacecowboy/Feeder) Android RSS reader app.
