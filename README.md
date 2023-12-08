@@ -3,6 +3,7 @@ FOSS — Free and open-source software.
 
 - [Openreads](https://github.com/mateusz-bak/openreads-android) A mobile books tracker written in Flutter that respects your privacy.
 - [Feeder](https://github.com/spacecowboy/Feeder) Android RSS reader app.
+- [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) A free and open source manga reader for Android.
 - [Kotatsu](https://github.com/KotatsuApp/Kotatsu) A free and open source manga reader for Android.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) A libre lightweight streaming front-end for Android.
 - [FreePaint](https://github.com/pastthepixels/FreePaint) A vector graphics drawing app for Android.
