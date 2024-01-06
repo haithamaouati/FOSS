@@ -18,6 +18,9 @@ FOSS — Free and open-source software.
 ## Connectivity
 - [WG Tunnel](https://github.com/zaneschepke/wgtunnel) An alternative Android Application for WireGuard VPN.
 
+## Development
+- [Termux]()
+
 - [Openreads](https://github.com/mateusz-bak/openreads-android) A mobile books tracker written in Flutter that respects your privacy.
 - [Feeder](https://github.com/spacecowboy/Feeder) Android RSS reader app.
 - [Tachiyomi](https://github.com/tachiyomiorg/tachiyomi) is a free and open source manga reader for Android.
