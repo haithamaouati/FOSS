@@ -40,5 +40,6 @@ FOSS — Free and open-source software.
 
 ## Writing
 - [Glider for Hcker News]()
+- [Anemo]()
 
 Collected with ☕ by **Haitham Aouati**
