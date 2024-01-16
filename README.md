@@ -38,4 +38,7 @@ FOSS — Free and open-source software.
 - [Hail 雹](https://github.com/aistra0528/Hail) is a free-as-in-freedom software to freeze Android apps.
 - [Amarok](https://github.com/deltazefiro/Amarok-Hider) Hide your private files and apps with a single click.
 
+## Writing
+- [Glider for Hcker News]()
+
 Collected with ☕ by **Haitham Aouati**
