@@ -42,6 +42,7 @@ FOSS — Free and open-source software.
 - [PlainApp]()
 - [FlashDim]()
 - [Barcode Scanner]()
+- [WADBS]()
 
 ## Writing
 - [Glider for Hcker News]()
