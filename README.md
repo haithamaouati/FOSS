@@ -1,10 +1,5 @@
-![license](https://custom-icon-badges.demolab.com/github/license/haithamaouati/FOSS?logo=law)
-![stars](https://custom-icon-badges.demolab.com/github/stars/haithamaouati/FOSS?logo=star)
-![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/FOSS?logo=repo-forked)
-![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/FOSS?logo=eye)
-
 # FOSS
-FOSS — Free and open-source software.
+FOSS: Free and open-source software.
 
 ```
   _____ ___  ____ ____   
